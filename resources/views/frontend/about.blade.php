@@ -32,11 +32,7 @@
                             {{$ab->description}}
                         </p>
 
-                       
-
-
-
-
+                     
                        
                         <div class="clearfix"></div>
                         <h2>Our Valuable Team Members</h2>
